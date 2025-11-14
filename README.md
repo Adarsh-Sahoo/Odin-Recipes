@@ -1,1 +1,2 @@
-First time getting into this setup..Looking forward to learning CSS
+This project is based on simple HTML structre.
+
